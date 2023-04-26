@@ -10,5 +10,5 @@ A complex city-builder that simulates a city based on a pop-tile-good system. Th
 Currently the amount of properly implmented features is a big fat zero. However planned features include:
 
 - economic simulation through production and consumption of goods by pops
-- ideological simulation
 - social simulation of pop relations and organization
+
