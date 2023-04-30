@@ -2,7 +2,7 @@
 
 ### About
 
-A complex city-builder that simulates a city based on a pop-tile-good system. This project is mainly meant to flesh out said system so that it can be reused and implemented in other, similar games.
+A complex city-builder that simulates a city based on a pop-tile-good system. This project is mainly meant to flesh out said system so that it can be reused and implemented in other, similar games. Look at the wiki section for design documentation.
 
 
 ### Features 
